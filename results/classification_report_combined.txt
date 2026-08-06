@@ -1,0 +1,16 @@
+Dataset        : Combined Test
+Overall Accuracy: 95.76%
+
+              precision    recall  f1-score   support
+
+       angry     0.9516    0.9830    0.9671      1120
+     disgust     0.9891    1.0000    0.9945       271
+        fear     0.9396    0.9781    0.9585      1098
+       happy     0.9889    0.9351    0.9613      2959
+     neutral     0.9268    0.9535    0.9400      1913
+         sad     0.9524    0.9403    0.9463      1725
+    surprise     0.9584    0.9940    0.9759      1160
+
+    accuracy                         0.9576     10246
+   macro avg     0.9581    0.9691    0.9634     10246
+weighted avg     0.9584    0.9576    0.9576     10246

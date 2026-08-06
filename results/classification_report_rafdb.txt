@@ -1,0 +1,16 @@
+Dataset        : RAF-DB Test
+Overall Accuracy: 97.98%
+
+              precision    recall  f1-score   support
+
+       angry     1.0000    1.0000    1.0000       162
+     disgust     0.9938    1.0000    0.9969       160
+        fear     0.9733    0.9865    0.9799        74
+       happy     0.9965    0.9629    0.9794      1185
+     neutral     0.9437    0.9868    0.9648       680
+         sad     0.9771    0.9833    0.9802       478
+    surprise     0.9880    1.0000    0.9940       329
+
+    accuracy                         0.9798      3068
+   macro avg     0.9818    0.9885    0.9850      3068
+weighted avg     0.9804    0.9798    0.9799      3068

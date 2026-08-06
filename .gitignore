@@ -1,0 +1,37 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+venv312/
+.env/
+
+# Conda
+.conda/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary Files
+*.log
+*.tmp
+
+# Runtime Screenshots
+results/screenshots/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# ==========================
+# Datasets (Not Included)
+# ==========================
+fer2013/
+rafdb/
